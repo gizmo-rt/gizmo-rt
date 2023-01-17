@@ -1,8 +1,3 @@
-## GitHub Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=gizmo-rt&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=gizmo-rt)
-
 ### Hi there 👋
 
 <!--
@@ -44,3 +39,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+## :fire: My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=gizmo-rt&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizmo-rt)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=gizmo-rt)
