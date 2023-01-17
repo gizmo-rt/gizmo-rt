@@ -1,3 +1,8 @@
+## GitHub Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=gizmo-rt&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=gizmo-rt)
+
 ### Hi there 👋
 
 <!--
